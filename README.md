@@ -1,18 +1,18 @@
-# Python_Projects
-Python scripts for data analysis, automation, and visualization from real-world datasets.
-
 # Python Projects - Kushagra Pawar
 
-This repository contains Python scripts built for real-world data analysis and visualization, using libraries like pandas, numpy, and matplotlib.
+Welcome to my collection of Python projects focused on data analysis, automation, and visualization. These projects demonstrate my proficiency in Python and its data-centric libraries.
 
-## 📌 Projects
+## 📁 Projects
 
 ### 1. Tips Dataset Analysis
-- Dataset: Seaborn's built-in tips dataset
-- Tools: Python, Pandas
-- Objective: Analyze tipping behavior by gender, day, and total revenue.
-- Outcome: Found highest average tips by gender and day.
+- **Dataset:** Seaborn's built-in 'tips' dataset
+- **Tools:** Python, Pandas
+- **Objective:** Analyze tipping behavior based on gender, day, and total revenue.
+- **Outcome:** Identified patterns in tipping habits across different days and customer demographics.
 
-### 2. Customer Churn Prediction (Coming Soon)
-- Tools: Pandas, scikit-learn, Seaborn
-- Goal: Predict churn probability in telecom dataset.
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
